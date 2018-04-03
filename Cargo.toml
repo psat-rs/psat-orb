@@ -1,0 +1,8 @@
+[package]
+name = "psat-orb"
+version = "0.1.0"
+authors = ["Colin Reeder <vpzomtrrfrt@gmail.com>"]
+
+[dependencies]
+orbtk = "0.2.27"
+psat = { path = "../psat" }
